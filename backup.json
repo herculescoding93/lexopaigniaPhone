@@ -1,0 +1,12 @@
+{
+  "timestamp": "",
+  "last_updated": "",
+  "total_participants": 0,
+  "total_activated": 0,
+  "total_arrived": 0,
+  "currently_active": 0,
+  "undo_arrivals": 0,
+  "total_events": 0,
+  "last_5_arrived": [],
+  "system_status": "running"
+}
